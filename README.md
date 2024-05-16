@@ -14,8 +14,6 @@ I used the Kotlin language which is a language developed by JetBrains designed t
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [W3 Schools](https://www.w3schools.com/kotlin/index.php)
 - [Kotlin Official Site](https://kotlinlang.org/)
 
